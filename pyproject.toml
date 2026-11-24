@@ -5,7 +5,13 @@ description = "End-to-end pipeline for monitoring Indonesian food prices"
 readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
-dependencies = []
+dependencies = [
+    "duckdb>=1.1.0",
+    "httpx>=0.27.0",
+    "pandas>=2.2.0",
+    "pandera[pandas]>=0.20.0",
+    "python-dotenv>=1.0.0",
+]
 
 [dependency-groups]
 dev = [
