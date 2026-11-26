@@ -8,7 +8,6 @@ validasi â†’ warehouse â†’ transformasi dbt â†’ deteksi anomali �
 ditunjukkan** proyek; detail operasional ditambahkan saat fase terkait selesai.
 
 ---
-
 ## 1. Masalah yang dipecahkan
 
 Harga pangan di Indonesia sangat fluktuatif dan berdampak langsung pada inflasi
